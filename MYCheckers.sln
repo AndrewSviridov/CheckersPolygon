@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersPolygon", "CheckersPolygon\CheckersPolygon.csproj", "{77FBDA54-4DB9-4A24-B022-A8440DBE07AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCheckers", "CheckersPolygon\MyCheckers.csproj", "{77FBDA54-4DB9-4A24-B022-A8440DBE07AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {042B602E-C0A4-4F12-A216-A2DB197E1816}
 	EndGlobalSection
 EndGlobal
